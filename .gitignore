@@ -1,10 +1,5 @@
 
-.env
-.env.test
-tests
-jest.config.cjs
-jest.setup.js
-babel.config.cjs
+
 
 # Logs
 logs
@@ -19,6 +14,13 @@ node_modules
 dist
 dist-ssr
 *.local
+
+jest.setup.js
+.env
+.env.test
+tests
+jest.config.cjs
+babel.config.cjs
 
 # Editor directories and files
 .vscode/*
